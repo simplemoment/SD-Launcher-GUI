@@ -1,2 +1,2 @@
 # SD_Launcher_EAk
-The simple GUI launcher for Stable Deffusion
+The simple open source GUI launcher for Stable Deffusion
