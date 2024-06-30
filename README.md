@@ -1,2 +1,2 @@
-# SD_Launcher_EAk
-The simple GUI launcher for Stable Deffusion
+# SD Launcher GUI
+The simple GUI launcher for Stable Diffusion
